@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencrocess",
+        "uuid": 9472476,
+        "checksum": "ayelhh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
